@@ -73,3 +73,9 @@ $ npm install
 # Executar o aplicativo em modo de desenvolvimento
 $ npx expo start
 ```
+
+ ## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Acknowledgments
+- Thanks Rocketseat
